@@ -1,4 +1,4 @@
-# Calaulate-Temporal-Envelope-and-Spectral-Envelope-of-Vowel
+# Calculate-Temporal-Envelope-and-Spectral-Envelope-of-Vowel
 Calculate temporal and spectral envelope of vowel
 
 These scripts are related to the following works  
