@@ -2,10 +2,10 @@
 # Calculate temporal and spectral envelope of vowel
 
 ### an example of temporal envelope
-![image](https://github.com/Calculate-Temporal-and-Spectral-Envelope-of-Vowel/image/a1.jpg)
+![image](https://github.com/fuzhenfz/Calculate-Temporal-and-Spectral-Envelope-of-Vowel/blob/master/image/a1.jpg)
 
 ### an example of spectral envelope
-![image](https://github.com/Calculate-Temporal-and-Spectral-Envelope-of-Vowel/image/a3.jpg)
+![image](https://github.com/fuzhenfz/Calculate-Temporal-and-Spectral-Envelope-of-Vowel/blob/master/image/a3.jpg)
 
 These scripts are related to the following works  
 Fu, Z., Wu, X., Chen, J., 2019. Effects of Spectral and Temporal Cues to Mandarin Concurrent-Vowels Identification for Normal-Hearing and Hearing-Impaired Listeners, Presented at the Interspeech 2019, Graz, Austria, pp. 3083–3087. https://doi.org/10.21437/Interspeech.2019-3209
